@@ -1,0 +1,12 @@
+body {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding-top: 50px;
+    transition: 0.5s; /* 變色時滑順一點 */
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
